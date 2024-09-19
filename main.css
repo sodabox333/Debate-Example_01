@@ -1,0 +1,22 @@
+/* CSS file*/
+/* add styles for debate page */
+
+
+
+figcaption { 
+	color: grey; 
+	font-family: "Georgia", serif;
+}
+
+h1 {color: black;
+	 text-transform: uppercase;
+	 font-family: "Georgia", serif;
+}
+footer {
+		color:grey;
+		font-size: small;
+		font-family: "Georgia", serif;
+}
+p { color: black; 
+	font-family: "Georgia;", serif;
+}
