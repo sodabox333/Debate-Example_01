@@ -1,22 +1,38 @@
 /* CSS file*/
 /* add styles for debate page */
 
+*{ 
+	font-family:"Georgia"; serif; }
 
+h1 {color: black;
+	 text-transform: uppercase;
+	 font-family: "Georgia", serif;}
 
-figcaption { 
+figure{ max-width: 600px}
+
+/* turns figcaption grey */
+
+figcaption{ 
 	color: grey; 
 	font-family: "Georgia", serif;
 }
 
-h1 {color: black;
+/*sets max space for image and caption (up to 600 px)*/
+
+img{ max-width: 100% }
+
+h1{color: black;
 	 text-transform: uppercase;
 	 font-family: "Georgia", serif;
 }
-footer {
+h6{
 		color:grey;
 		font-size: small;
 		font-family: "Georgia", serif;
 }
-p { color: black; 
+p{ color: black; 
 	font-family: "Georgia;", serif;
 }
+
+.blue{ color: blue; } 
+.red{ color: red; } 
